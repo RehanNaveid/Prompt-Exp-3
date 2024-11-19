@@ -9,7 +9,8 @@ To assess the effectiveness, usability, and response quality of various promptin
 **Procedure:** 
 
 1. **Define the Use Case**: 
-   1. Select a specific task for comparison across platforms, such as: ![](Aspose.Words.eaa94925-4c73-49d9-a120-33474c5d6892.001.png) Summarizing a lengthy technical document 
+   1. Select a specific task for comparison across platforms, such as: ![Aspose Words eaa94925-4c73-49d9-a120-33474c5d6892 001](https://github.com/user-attachments/assets/1c9b0722-b9e4-43a7-a355-25cf83564a7a)
+ Summarizing a lengthy technical document 
       1. Answering complex technical questions 
       1. Generating creative content based on specific prompts 
 1. **Design Standardized Prompts**: 
@@ -39,16 +40,14 @@ To assess the effectiveness, usability, and response quality of various promptin
 **Outcomes:** 
 
 **Prompt: “Explain convolutional neural networks (CNNs) and their applications in image processing.”** 
+![Aspose Words eaa94925-4c73-49d9-a120-33474c5d6892 002](https://github.com/user-attachments/assets/d0641b4a-a16f-4cad-a320-99afa8792232)
+![Aspose Words eaa94925-4c73-49d9-a120-33474c5d6892 003](https://github.com/user-attachments/assets/9bf11df5-eb69-4a3b-a038-9c0e2ddbf160)
+![Aspose Words eaa94925-4c73-49d9-a120-33474c5d6892 004](https://github.com/user-attachments/assets/b52417a8-c286-4a
+![Aspose Words eaa94925-4c73-49d9-a120-33474c5d6892 005](https://github.com/user-attachments/assets/eafae0db-ce6d-4316-a5b6-d7449014b199)
+04-a7b5-8ac6e381cd56)
 
-![](Aspose.Words.eaa94925-4c73-49d9-a120-33474c5d6892.002.jpeg)
+![Aspose Words eaa94925-4c73-49d9-a120-33474c5d6892 006](https://github.com/user-attachments/assets/23137ab2-d9be-4c4f-a7bc-1dc63c97acc1)
 
-![](Aspose.Words.eaa94925-4c73-49d9-a120-33474c5d6892.003.jpeg)
-
-![](Aspose.Words.eaa94925-4c73-49d9-a120-33474c5d6892.004.jpeg)
-
-![](Aspose.Words.eaa94925-4c73-49d9-a120-33474c5d6892.005.jpeg)
-
-![](Aspose.Words.eaa94925-4c73-49d9-a120-33474c5d6892.006.jpeg)
 
 **Conclusion:** 
 
