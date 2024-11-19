@@ -42,9 +42,10 @@ To assess the effectiveness, usability, and response quality of various promptin
 **Prompt: “Explain convolutional neural networks (CNNs) and their applications in image processing.”** 
 ![Aspose Words eaa94925-4c73-49d9-a120-33474c5d6892 002](https://github.com/user-attachments/assets/d0641b4a-a16f-4cad-a320-99afa8792232)
 ![Aspose Words eaa94925-4c73-49d9-a120-33474c5d6892 003](https://github.com/user-attachments/assets/9bf11df5-eb69-4a3b-a038-9c0e2ddbf160)
-![Aspose Words eaa94925-4c73-49d9-a120-33474c5d6892 004](https://github.com/user-attachments/assets/b52417a8-c286-4a
+![Aspose Words eaa94925-4c73-49d9-a120-33474c5d6892 004](https://github.com/user-attachments/assets/57de9b8a-3aab-49bd-8a0a-41ce5484e795)
+
 ![Aspose Words eaa94925-4c73-49d9-a120-33474c5d6892 005](https://github.com/user-attachments/assets/eafae0db-ce6d-4316-a5b6-d7449014b199)
-04-a7b5-8ac6e381cd56)
+
 
 ![Aspose Words eaa94925-4c73-49d9-a120-33474c5d6892 006](https://github.com/user-attachments/assets/23137ab2-d9be-4c4f-a7bc-1dc63c97acc1)
 
